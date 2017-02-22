@@ -1,2 +1,2 @@
 # MagicSquare
-Solves a 4x4 magic square
+Checks a 4x4 magic square
